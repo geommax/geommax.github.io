@@ -17,8 +17,7 @@
 - **04 Micro Controller Processor - STM32Fxx**
 - **05 Graphic Workshop TouchGFx**
 - **06 Realtime Operating System (Free RTOS)**
-- **07 Debugging & Monitoring on cubeIDE, cubeMON**
-- **08 OTA Update Mechanism & STM**
+- **07 Debugging & Monitoring on cubeIDE, ARM Keil MDK**
 
 ## Learning Style 
 - **In Campus Class**
