@@ -14,7 +14,7 @@
 - **03 Yocto, Buildroot**
 - **03 ARM Cortex Based Architectures - Processor**
 - **03 ARM Bootloader U-Boot**
-- **04 Micro Controller Processor - STM32Fxx**
+- **04 Micro Controller Processor - STM32Fxx STM32Lxx**
 - **05 Graphic Workshop TouchGFx**
 - **06 Realtime Operating System (Free RTOS)**
 - **07 Debugging & Monitoring on cubeIDE, ARM Keil MDK**
