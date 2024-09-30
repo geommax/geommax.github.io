@@ -17,7 +17,7 @@ AI research and autonomous robotics solutions are cutting-edge technologies that
 - *[Telegram](https://t.me/rom_dynamics)*
 - *[Facebook ROM Robotics](https://www.facebook.com/ROMROBOTS/)*
 - *[Facebook Deep Blue AI Lab](https://www.facebook.com/deepblueailab/)*
-- **Email - info@romrobots.com**
+- **Email - contact@romrobots.com**
 - **Email - sale.romdynamics@gmail.com**
 
 ### Location
