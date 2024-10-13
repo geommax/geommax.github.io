@@ -45,7 +45,7 @@
 
 
 
-## No.3 AI Engineering Diploma (6 Months)
+## No.3 AI Engineering Diploma (1 Year)
 
 > AI Engineering diploma ၏ သင်ရိုးညွှန်းတမ်းများနှင့် diploma အတွက် ကုန်ကျမည့် class fees များကို အောက်ပါလင့်တွင် ဝင်ရောက်လေ့လာနိုင်ပါတယ်။
 
