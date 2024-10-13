@@ -26,16 +26,28 @@ learning.
 - **Calculus**
 > Power rule, Chain rule, Product rule, Sum rule
 - **Linear Regression**
+> Continuous prediction with linear regression algorithm
 - **Perceptron Algorithm**
+> Straight line formula wx+b for linear classifiers
 - **Neural Network**
+> Input layer, hidden layer and output layer
 - **Machine Learning Part II**
+> Evaluation Metrics
 - **Data Training & Model Testing**
-- **Evaluation Metrics**
-- **Models Selection**
+> Wine dataset training and prediction
 - **Convolutional Neural Network**
+> Convolutional layers, pooling layers, activation layers
+Inception net for DCNN
+mobile net for embedded and mobile devices
+Ultralytics YOLO for object detection
 - **Recurrent Nerual Network**
+> Time series data forecasting
 - **Neural Language Processing**
+> Tokenization, Lemmatization, stemming, Bag of words, N-grams
+Virtual assistant & Chatbot
 - **Reinforcement Learning**
+> Q-learning, Environment state, action, rewards for agent
+K-Armed Bandit problem with ε-greedy
 - **Advaced OpenCV Projects**
 - **AI powered chatbots**
 
