@@ -4,7 +4,7 @@
 ## About
 > AI Engineer တစ်ယောက်အဖြစ်ရပ်တည်နိုင်မယ့် Diploma ဖြစ်ပါတယ်။
 
-## AI Engineering Diploma(6 Months)
+## AI Engineering Diploma(1 Year)
 **Syllabus**
 
 - **Warming up Introduction to AI**
