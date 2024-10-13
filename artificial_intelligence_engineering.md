@@ -8,13 +8,23 @@
 **Syllabus**
 
 - **Warming up Introduction to AI**
+> What is machine learning and Deep learning
+Various machine learning of supervised learning, unsupervised learning and reinforcement
+learning.
 - **Image Processing**
+> Image segmentation, Image smoothing and sharpening, Edge Detect Algorithms
 - **Computer Vision**
+> Basic color detection with RGB and maximizing the pixels values
 - **Machine Learning**
+> K-nearest Neighbours Algorithms, Support Vector Machine Algorithms
 - **Python Modules**
+> Glob modules, Scikit-learn and Scikit-image library
 - **Decision Tree**
+> Build a recommendation AI System with Decision Tree and Random Forest Algorithm
 - **Linear Algebra**
+> Basic mathematics knowledge of Vectors and Matrix, Linear transformations
 - **Calculus**
+> Power rule, Chain rule, Product rule, Sum rule
 - **Linear Regression**
 - **Perceptron Algorithm**
 - **Neural Network**
@@ -28,6 +38,8 @@
 - **Reinforcement Learning**
 - **Advaced OpenCV Projects**
 - **AI powered chatbots**
+
+
 
 ## Learning Style 
 - **In Campus Class**
