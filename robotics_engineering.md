@@ -9,19 +9,19 @@
 **Foundational 1st Year**
 
 - **AMR 01 Linux For Robotics**
-- **AMR 02 CPP Programming**
+- **AMR 02 Advanced C++**
 - **AMR 03 ROS2 Basic and Intermediate**
 - **AMR 04 Building Autonomous Mobile Robot**
-- **AMR 05 Navigation System**
-- **AMR 06 Embedded Programming**
-- **AMR 07 DSP**
-- **AMR 08 Mathematics**
-- **AMR 09 Industrial Robots**
-- **AMR 10 Building Industrial Type AMR**
-- **AMR 11 Micro ROS**
-- **AMR 12 SLAM**
+- **AMR 05 Embedded Programming**
+- **AMR 06 ROS2 SLAM**
+- **AMR 07 ROS2 Navigation 2 Algorithm**
+- **AMR 08 ROS2 Navigation 2 Algorithm**
+- **AMR 09 Industrial Mobile Robots**
+- **AMR 10 Control Theory**
+- **AMR 11 Threading & Concurrency**
+- **AMR 12 Micro-ROS**
 
-**Advanced 2nd year**
+<!-- **Advanced 2nd year**
 
 - **AMR 13 Deep Dive into SLAM ROS2**
 - **AMR 14 Mechanic**
@@ -31,7 +31,7 @@
 - **AMR 18 Power Source**
 - **AMR 19 Artificial Intelligence in Robot System**
 - **AMR 20 Android System**
-- **AMR 21 Developer Guide**
+- **AMR 21 Developer Guide** -->
 
 ## Learning Style 
 - **In Campus Class**
