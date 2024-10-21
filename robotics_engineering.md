@@ -41,7 +41,7 @@
 - **AMR 07 ROS2 Navigation 2 Algorithm**
 - **AMR 08 ROS2 Navigation 2 Algorithm**
 - **AMR 09 Industrial Mobile Robots**
-- **AMR 10 Control Theory**
+- **AMR 10 SLAM Tuning Guide & Cartographer**
 - **AMR 11 Threading & Concurrency**
 - **AMR 12 Micro-ROS**
 
