@@ -42,7 +42,7 @@
 - **AMR 08 ROS2 Navigation 2 Algorithm**
 - **AMR 09 Industrial Mobile Robots**
 - **AMR 10 SLAM Tuning Guide & Cartographer**
-- **AMR 11 Realtime Opearting System (RTOS)**
+- **AMR 11 Realtime Operating System (RTOS)**
 - **AMR 12 Micro-ROS**
 
 <!-- **Advanced 2nd year**
