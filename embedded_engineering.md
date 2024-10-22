@@ -4,11 +4,11 @@
 ## About
 > Embedded Engineering Diploma သည် Electronic, Machtronic, Computer Engineer စတဲ့ကျောင်းသား/သူများနှင့်အဓိက သက်ဆိုင်ပြီး Firmware Engineer, Control Engineer, Robotics Engineer နှင့် Embedded Engineer များအဖြစ် အသက်မွေးဝမ်းကြောင်းပြုနိုင်သော diploma တစ်ခုဖြစ်ပါတယ်။
 
-###  🚀 Embedded သီးသန့်သွားချင်တဲ့သူတွေအတွက် သီတင်းကျွတ် ပရိုမိုးရှင်းပါနော်။🚀
+<!--###  🚀 Embedded သီးသန့်သွားချင်တဲ့သူတွေအတွက် သီတင်းကျွတ် ပရိုမိုးရှင်းပါနော်။🚀
 
 - **🚀Embedded System Recording Class🚀**
 
-> ( 🚀STM 32, 🚀Yocto Linux ) << 🚀500,000 MMK နဲ့ ရမယ့်အခွင့်အရေး
+> ( 🚀STM 32, 🚀Yocto Linux ) << 🚀500,000 MMK နဲ့ ရမယ့်အခွင့်အရေး-->
 
 
 
