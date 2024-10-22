@@ -5,11 +5,11 @@
 > AI Engineer တစ်ယောက်အဖြစ်ရပ်တည်နိုင်မယ့် Diploma ဖြစ်ပါတယ်။
 
 
-## ဒီနှစ် 2024 သီတင်းကျွတ် ပိတ်ရက် ကျွတ်ကျဲနေတဲ့ promotion 
+<!--## ဒီနှစ် 2024 သီတင်းကျွတ် ပိတ်ရက် ကျွတ်ကျဲနေတဲ့ promotion 
 
 > =-=-=-=-=-=-=-
 
-<!--### 🚀 Congratulations 🚀
+### 🚀 Congratulations 🚀
 
 ### 60% OFF  for AI Diploma Recording Class 
 
