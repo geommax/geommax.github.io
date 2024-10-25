@@ -38,12 +38,12 @@
 - **AMR 04 Building Autonomous Mobile Robot**
 - **AMR 05 Embedded Programming**
 - **AMR 06 ROS2 SLAM**
-- **AMR 07 ROS2 Navigation 2 Algorithm**
+- **AMR 07 SLAM Tuning Guide & Cartographer**
 - **AMR 08 ROS2 Navigation 2 Algorithm**
-- **AMR 09 Industrial Mobile Robots**
-- **AMR 10 SLAM Tuning Guide & Cartographer**
-- **AMR 11 Realtime Operating System (RTOS)**
-- **AMR 12 Micro-ROS**
+- **AMR 09 Using Industrial Mobile Robots**
+- **AMR 10 Micro-ROS**
+- **AMR 11 Threading & Concurrency**
+- **AMR 12 Control Theory**
 
 <!-- **Advanced 2nd year**
 
