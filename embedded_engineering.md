@@ -17,16 +17,21 @@
 **Syllabus**
 
 - **01 Linux System Administration - 150000 MMK** 
-- **02 Programming & OOP C++ - 150000 MMK**
-- **02 Concurrency & Multithreading - 150000 MMK**
-- **03 Embedded Linux System - 300000 MMK**
-- **03 Yocto, Buildroot**
-- **03 ARM Cortex Based Architectures - Processor - 400000 MMK**
-- **03 ARM Bootloader U-Boot**
-- **04 Micro Controller Processor - STM32Fxx STM32Lxx**
-- **05 Graphic Workshop TouchGFx - 150000 MMK**
-- **06 Realtime Operating System (Free RTOS) - 600000 MMK**
-- **07 Debugging & Monitoring on cubeIDE, ARM Keil MDK**
+- **02 C & C++ - 150000 MMK**
+- **03 Concurrency & Multithreading - 150000 MMK**
+- **04 ARM Cortex Based Architectures - stm32f4 Processor - 400000 MMK**
+-   - **01 Debugging & Monitoring on cubeIDE, ARM Keil MDK**
+    - **02 
+- **05 Embedded Linux System - 500000 MMK**
+-   -  **01 Embedded Introduction & Build Tools**
+    -  **02 Version Control System**
+    -  **03 Creating Custom Linux ( Compiling Linux Kernel, bootloader, filesystem with  traditional way )**
+    -  **04 Creating Custom Linux ( Buildroot )**
+    -  **05 Creating Custom Linux Distro for Production ( Yocto )**
+    -  **06 OpenWrt, Hacking Embedded System ( coming 2026 )** 
+- **06 ARM Bootloader U-Boot - 550000 MMK**
+- **07 Realtime Operating System (Free RTOS) - 600000 MMK**
+- **08 Graphic Workshop TouchGFx - 750000 MMK**
 
 ## Learning Style 
 - **In Campus Class**
