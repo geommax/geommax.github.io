@@ -16,7 +16,7 @@
 > original fees with the updated date (16-Oct-2024)
 **Syllabus**
 
-#### Foundational and Intermediate
+#### Foundational and Intermediate Courses
 
 - - **01 Linux System Administration - 150000 MMK** 
 - **02 C & C++ - 150000 MMK**
