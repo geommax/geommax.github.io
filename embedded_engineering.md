@@ -13,7 +13,7 @@
 
 
 ### Embedded System Engineering Diploma(9 Months)
-> original fees with the updated date (16-Oct-2024)
+> original fees with the updated date (25-Nov-2024)
 **Syllabus**
 
 #### Foundational and Intermediate Courses
