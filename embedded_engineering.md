@@ -31,10 +31,11 @@
     -  **03 Creating Custom Linux ( Compiling Linux Kernel, bootloader, filesystem with  traditional way )**
     -  **04 Creating Custom Linux ( Buildroot )**
     -  **05 Creating Custom Linux Distro for Production ( Yocto )**
-    -  **06 OpenWrt, Hacking Embedded System ( New on 2025 )** 
-- **06 ARM Bootloader U-Boot - 550000 MMK**
-- **07 Realtime Operating System (Free RTOS) - 600000 MMK**
-- **08 Graphic Workshop TouchGFx - (New on 2025)** <!--750000 MMK**-->
+    -  **06 OpenWrt, Hacking Embedded System ( New on 2025 )**
+- **06 Assembly Language on Embedded System**
+- **07 ARM Bootloader U-Boot - 550000 MMK**
+- **08 Realtime Operating System (Free RTOS) - 600000 MMK**
+- **09 Graphic Workshop TouchGFx - (New on 2025)** <!--750000 MMK**-->
 
 ## Learning Style 
 - **In Campus Class**
