@@ -16,7 +16,9 @@
 > original fees with the updated date (16-Oct-2024)
 **Syllabus**
 
-- **01 Linux System Administration - 150000 MMK** 
+- **#### Foundational and Intermediate**
+
+- - **01 Linux System Administration - 150000 MMK** 
 - **02 C & C++ - 150000 MMK**
 - **03 Concurrency & Multithreading - 150000 MMK**
 - **04 ARM Cortex Based Architectures - stm32f4 Processor - 400000 MMK**
@@ -32,10 +34,13 @@
     -  **04 Creating Custom Linux ( Buildroot )**
     -  **05 Creating Custom Linux Distro for Production ( Yocto )**
     -  **06 OpenWrt, Hacking Embedded System ( New on 2025 )**
-- **06 Assembly Language on Embedded System**
+
+- **#### Advanced Courses**
+
+- **06 Assembly Language - 150000 MMK**
 - **07 ARM Bootloader U-Boot - 550000 MMK**
 - **08 Realtime Operating System (Free RTOS) - 600000 MMK**
-- **09 Graphic Workshop TouchGFx - (New on 2025)** <!--750000 MMK**-->
+- **09 Graphic Workshop TouchGFx - 750000 MMK (New on 2025)** 
 
 ## Learning Style 
 - **In Campus Class**
