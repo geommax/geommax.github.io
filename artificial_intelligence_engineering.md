@@ -64,7 +64,7 @@ mobile net for embedded and mobile devices
 Ultralytics YOLO for object detection
 - **Recurrent Nerual Network**
 > Time series data forecasting
-- **Neural Language Processing**
+- **Natural Language Processing**
 > Tokenization, Lemmatization, stemming, Bag of words, N-grams
 Virtual assistant & Chatbot
 - **Reinforcement Learning**
