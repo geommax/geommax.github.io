@@ -23,7 +23,7 @@ AI research and autonomous robotics solutions are cutting-edge technologies that
 ### Location
 *   No 223, ThaMarDi Street, 35 Yards, North Dagon Township, Yangon. (Head Office)
 
-All Softwares are maintained by [ROM Robotics](https://romrobots.com).
+All Softwares are maintained by [ROM Robotics](https://romdynamics.com).
 
 ### For more information, see [Facebook](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL), [Github](https://github.com/ROM-robotics), [Youtube](https://www.youtube.com/@ROMROBOTICS).
 
