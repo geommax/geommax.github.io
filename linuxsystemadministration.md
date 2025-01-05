@@ -187,3 +187,5 @@
   - Network Scanning with `nmap` and `netcat`
 
 ---
+
+> Google Classroom ကနေ Lecture Videos တွေကို လေ့လာရမှာဖြစ်ပြီး လိုအပ်တဲ့ technical အခက်အခဲနဲ့ practical ပိုင်းစမ်းသပ်တဲ့အချိန် error များရှိလာရင်လည်း engieers team မှ 24/7 support ပေးသွားမှာဖြစ်ပါတယ်။ သင်တန်းလေ့လာပြီးဆုံးတဲ့အခါ exam ဖြေဆိုရပါမယ်။ အချိန် ၃ နာရီကြာမြင့်မယ့် exam ကို online ကနေ အမှတ် ၂၀၀ ဖိုး မေးခွန်း ဖြေဆိုရမှာဖြစ်ပြီး၊ အောင်မြင်သူများကို Certification ပေးအပ်သွားမှာလည်းဖြစ်ပါတယ်။ 
