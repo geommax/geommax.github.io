@@ -54,7 +54,15 @@
 
 *[Data Science Course Details](./data_science.md)*
 
-## No.5 Bundles Related Course 
+## No.5 Computer Vision Master Class
+
+> Diploma မဟုတ်ပဲ သီးသန့် လေ့လာချင်တဲ့ course များရှိရင် အောက်ပါလင့်ကနေဝင်ရောက်လေ့လာနိုင်ပါတယ်။
+
+*[Computer Vision Course Fees](./computer_vision.md)*
+
+*[Computer Vision Details](./computer_vision.md)*
+
+## No.6 Bundles Related Course 
 
 > Diploma မဟုတ်ပဲ သီးသန့် လေ့လာချင်တဲ့ course များရှိရင် အောက်ပါလင့်ကနေဝင်ရောက်လေ့လာနိုင်ပါတယ်။
 
