@@ -73,7 +73,21 @@ K-Armed Bandit problem with ε-greedy
 - **Advaced OpenCV Projects**
 - **AI powered chatbots**
 
+```bash
+Module 1 - Linux System Administration 
 
+Module 2 - Python Programming Language 
+
+Module 3 - Image processing & Computer vision 
+
+Module 4 - ML Training data with KNN
+
+Module 5 - Linear Algebra, Calculus
+
+Module 6 - Higher Dimensions with Linear Regression & Decision Tree
+
+module 7 - Tensor flow and Pytorch Library Introduction
+```
 
 ## Learning Style 
 - **In Campus Class**
