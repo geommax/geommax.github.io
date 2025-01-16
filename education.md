@@ -8,9 +8,7 @@
 
 > ကျောင်းသား/ သူတို့အတွက် industrial အတွေ့အကြုံများစွာရရှိဖို့ ထိရောက်မှုရှိတဲ့ အောက်ပါ သင်ရိုးအတိုင်းလေ့လာရမှာဖြစ်ပါတယ်။
 
-## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-
+## 
 
 
 ## No. 1 Embedded System Engineering Diploma(9 Months)
@@ -24,9 +22,7 @@
 
 
 
-## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-
+## 
 
 
 ## No. 2 Robotic Engineering Diploma (2 Years)
@@ -40,8 +36,7 @@
 
 
 
-## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
+## 
 
 
 
@@ -55,12 +50,21 @@
 
 
 
-## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+## 
+
+## No.4 Data Science (4 Months)
+
+> Data Science ၏ သင်ရိုးညွှန်းတမ်းများနှင့် diploma အတွက် ကုန်ကျမည့် class fees များကို အောက်ပါလင့်တွင် ဝင်ရောက်လေ့လာနိုင်ပါတယ်။
+
+*[Data Science Class Fees](./data_science.md)*
+
+*[Data Science Course Details](./data_science.md)*
+
 
 
 
 ### NOTE: Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](./trainingmaterials.md).
 
-All Softwares are maintained by [ROM Robotics](https://romrobots.com).
+All Softwares are maintained by [ROM Robotics](https://romdynamics.com).
 
 ### For more information, see [Facebook](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL), [Github](https://github.com/ROM-robotics), [Youtube](https://www.youtube.com/@ROMROBOTICS).
