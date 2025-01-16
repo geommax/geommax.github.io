@@ -18,7 +18,7 @@
 
 #### Foundational and Intermediate Courses
 
-- - **01 Linux System Administration - 150000 MMK** 
+- **01 Linux System Administration - 150000 MMK** 
 - **02 C & C++ - 150000 MMK**
 - **03 Concurrency & Multithreading - 150000 MMK**
 - **04 ARM Cortex Based Architectures - stm32f4 Processor - 400000 MMK**
