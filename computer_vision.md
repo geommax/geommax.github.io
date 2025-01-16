@@ -2,7 +2,7 @@
 
 *[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md), [Data Science](./data_science.md)*
 
-- **Computer Vision Master Class**
+- **Computer Vision Master Class(3 Months)**
   
   ### ဘယ်သူတွေ join သင့်လဲ ?
   - **AI Beginners**

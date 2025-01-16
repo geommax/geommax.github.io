@@ -54,9 +54,9 @@
 
 *[Data Science Course Details](./data_science.md)*
 
-## No.5 Computer Vision Master Class
+## No.5 Computer Vision Master Class (3 Months)
 
-> Diploma မဟုတ်ပဲ သီးသန့် လေ့လာချင်တဲ့ course များရှိရင် အောက်ပါလင့်ကနေဝင်ရောက်လေ့လာနိုင်ပါတယ်။
+> AI ကိုစတင်လေ့လာမယ့်သူတွေတက်သင့်တဲ့ course တစ်ခုပါ။
 
 *[Computer Vision Course Fees](./computer_vision.md)*
 
