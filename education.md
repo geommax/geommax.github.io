@@ -8,7 +8,6 @@
 
 > ကျောင်းသား/ သူတို့အတွက် industrial အတွေ့အကြုံများစွာရရှိဖို့ ထိရောက်မှုရှိတဲ့ အောက်ပါ သင်ရိုးအတိုင်းလေ့လာရမှာဖြစ်ပါတယ်။
 
-## 
 
 
 ## No. 1 Embedded System Engineering Diploma(9 Months)
@@ -22,7 +21,6 @@
 
 
 
-## 
 
 
 ## No. 2 Robotic Engineering Diploma (2 Years)
@@ -36,8 +34,6 @@
 
 
 
-## 
-
 
 
 ## No.3 AI Engineering Diploma (1 Year)
@@ -50,8 +46,6 @@
 
 
 
-## 
-
 ## No.4 Data Science (4 Months)
 
 > Data Science ၏ သင်ရိုးညွှန်းတမ်းများနှင့် diploma အတွက် ကုန်ကျမည့် class fees များကို အောက်ပါလင့်တွင် ဝင်ရောက်လေ့လာနိုင်ပါတယ်။
@@ -60,7 +54,13 @@
 
 *[Data Science Course Details](./data_science.md)*
 
+## No.5 Bundles Related Course (4 Months)
 
+> Diploma မဟုတ်ပဲ သီးသန့် လေ့လာချင်တဲ့ course များရှိရင် အောက်ပါလင့်ကနေဝင်ရောက်လေ့လာနိုင်ပါတယ်။
+
+*[Bundle Course Fees](./bundle_course.md)*
+
+*[Bundle Courses Details](./bundle_course.md)*
 
 
 ### NOTE: Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](./trainingmaterials.md).

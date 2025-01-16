@@ -1,4 +1,10 @@
 # Statistics Course Modules
+*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md)*, [Data Science](./data_science.md)*
+
+## About
+> Data Analysis လုပ်ချင်တဲ့သူတွေတွက်ပဲဖြစ်ပါတယ်။
+
+
 
 ## Module - 1: Nature of Statistics
 - **Descriptive & Inferential Statistics**
