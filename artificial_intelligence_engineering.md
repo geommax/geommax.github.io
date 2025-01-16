@@ -1,5 +1,5 @@
 # AI Engineering Diploma
-*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md)*
+*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md), [Data Science](./data_science.md)*
 
 ## About
 > AI Engineer တစ်ယောက်အဖြစ်ရပ်တည်နိုင်မယ့် Diploma ဖြစ်ပါတယ်။

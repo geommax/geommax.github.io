@@ -1,5 +1,5 @@
 # Linux Course Outline
-
+*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md), [Data Science](./data_science.md)*
 ## Course Overview
 
 ### This course is divided into three main sections:
@@ -189,3 +189,23 @@
 ---
 
 > Google Classroom ကနေ Lecture Videos တွေကို လေ့လာရမှာဖြစ်ပြီး လိုအပ်တဲ့ technical အခက်အခဲနဲ့ practical ပိုင်းစမ်းသပ်တဲ့အချိန် error များရှိလာရင်လည်း engieers team မှ 24/7 support ပေးသွားမှာဖြစ်ပါတယ်။ သင်တန်းလေ့လာပြီးဆုံးတဲ့အခါ exam ဖြေဆိုရပါမယ်။ အချိန် ၃ နာရီကြာမြင့်မယ့် exam ကို online ကနေ အမှတ် ၂၀၀ ဖိုး မေးခွန်း ဖြေဆိုရမှာဖြစ်ပြီး၊ အောင်မြင်သူများကို Certification ပေးအပ်သွားမှာလည်းဖြစ်ပါတယ်။ 
+
+
+
+## Learning Style 
+- **In Campus Class**
+- **Online Live Class**
+- **Online Recording (Google Classroom) Class**
+
+
+## Class Fees 
+- **In Campus ( 800,000 MMK ) per month**
+- **Online Live Class( 500,000 MMK ) per month**
+- **Online Recording Class ( 300,000 MMK ) per month**
+
+### Contact
+- **Phone - 09 2500 7400 8**
+- **Viber - 09 2500 7400 8**
+- *[Telegram](https://t.me/rom_dynamics)*
+- *[Facebook ROM Robotics](https://www.facebook.com/ROMROBOTS/)*
+- *[Facebook Deep Blue AI Lab](https://www.facebook.com/deepblueailab/)*

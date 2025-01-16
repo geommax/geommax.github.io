@@ -54,7 +54,7 @@
 
 *[Data Science Course Details](./data_science.md)*
 
-## No.5 Bundles Related Course (4 Months)
+## No.5 Bundles Related Course 
 
 > Diploma မဟုတ်ပဲ သီးသန့် လေ့လာချင်တဲ့ course များရှိရင် အောက်ပါလင့်ကနေဝင်ရောက်လေ့လာနိုင်ပါတယ်။
 
@@ -63,7 +63,7 @@
 *[Bundle Courses Details](./bundle_course.md)*
 
 
-### NOTE: Some of learning materials are already uploaded as recording lessons in [ROM-Robotics youtube channel](./trainingmaterials.md).
+### NOTE: Youtube Channel မှာလည်း သင်ခန်းစာတွေကိုလေ့လာနိုင်ပါတယ်။ [ROM-Robotics youtube channel](./trainingmaterials.md).
 
 All Softwares are maintained by [ROM Robotics](https://romdynamics.com).
 

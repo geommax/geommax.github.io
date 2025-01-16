@@ -1,11 +1,14 @@
 # Online Live and Google Classroom Courses
 
+*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md), [Data Science](./data_science.md)*
+
+
 ## Online Live Diploma Classes
 
 - **Robotics Engineering Diploma**
 - **AI Engineering Diploma**
 - **Computer Vision Master Class**
-- **Linux System & Server Administration Class**
+- *[Linux System & Server Administration](./linuxsystemadministration.md)*
 
 ---
 
@@ -19,7 +22,7 @@
 
 ### System Engineers ရှုးသွပ်သူများအတွက်
 
-- **Linux System & Server Administration**
+- *[Linux System & Server Administration](./linuxsystemadministration.md)*
 - **Computer Networking Foundation**
 - **Embedded Linux (Yocto, Buildroot)**
 - **Embedded Controller (STM32)**
