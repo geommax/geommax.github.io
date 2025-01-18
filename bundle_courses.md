@@ -60,7 +60,7 @@
 
 
 ## Class Fees 
-- **In Campus ( 400,000 MMK ) per month**
+- **In Campus ( 500,000 MMK ) per month**
 - **Online Live Class( 350,000 MMK ) per month**
 - **Online Recording Class ( 400,000 MMK ) per month**
 
