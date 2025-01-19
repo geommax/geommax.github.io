@@ -29,7 +29,7 @@
 
 
 
-## Robotics Engineering Diploma(2 Years)
+## Robotics Engineering Diploma(1 Year)
 **Foundational 1st Year**
 
 - **AMR 01 Linux For Robotics**
