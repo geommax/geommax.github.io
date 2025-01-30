@@ -35,7 +35,7 @@
     -  **05 Creating Custom Linux Distro for Production ( Yocto )**
     -  **06 OpenWrt, Hacking Embedded System ( New on 2025 )**
 
-#### Advanced Courses
+#### Advanced Courses (Video Lectures များစီစစ်ဆဲ - Not Avaliable Now)
 
 - **06 Assembly Language - 150000 MMK**
 - **07 ARM Bootloader U-Boot - 550000 MMK**
