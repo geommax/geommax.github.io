@@ -31,15 +31,15 @@ jobs:
           source: ./
           destination: ./_site
 
-      - name: List build directory
-        run: ls -l _site || echo "_site directory not found!"
+      - name: Debug: Check Jekyll build output
+        run: ls -l _site || echo "ERROR: _site directory not found!"
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: jekyll-site  # Explicitly name the artifact
           path: _site
-          if-no-files-found: error  # Fails if _site is missing
+          if-no-files-found: error  # Fail if _site is missing
 
   deploy:
     environment:
@@ -51,8 +51,11 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
-          name: jekyll-site
+          name: jekyll-site  # Ensure the name matches the upload
           path: _site
+
+      - name: Debug: Verify artifact files
+        run: ls -l _site || echo "ERROR: _site directory missing after download!"
 
       - name: Deploy to GitHub Pages
         id: deployment
