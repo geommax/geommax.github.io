@@ -136,9 +136,9 @@ Decision making frameworks တွေဖြစ်တဲ့ Markov Decision Proces
 
 
 ## Class Fees 
-<!--- **In Campus ( 400,000 MMK ) per month**
-- **Online Live Class( 350,000 MMK ) per month**-->
-- **Online Recording Class ( 400,000 MMK ) per month**
+- **In Campus ( 400,000 MMK ) per month**
+- **Online Live Class ( 300,000 MMK ) per month**
+- **Online Recording Class ( 400,000 MMK )**
 
 ### Contact
 - **Phone - 09 2500 7400 8**
