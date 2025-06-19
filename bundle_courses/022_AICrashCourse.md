@@ -1,7 +1,7 @@
 *[Home](../README.md),  [Training Materials](../trainingmaterials.md),  [Github](https://github.com/ROM-robotics),  [Popular Bundle Courses](../bundle_courses.md)*
 
 ## About
-> အခုမှ AI ကိုစလေ့လာမယ့်သူတွေ Algorithms နှင့် Domain Mathematics (Algebra, Calculus, Stastistics)ပိုင်းအားနဲ့တဲ့သူတွေ နဲ့ AI Engineer Career ခရီးလမ်း စတင်လို့ရမယ့် Crash Course ဖြစ်ပါတယ်။ သင်တန်းအပ်သူေတွတွက် C++ for AI & Robotics Engineers course လက်ဆောင်လေးပေးအပ်သွားပါမယ်ခင်ဗျာ။
+> အခုမှ AI ကိုစလေ့လာမယ့်သူတွေ Algorithms နှင့် Domain Mathematics (Algebra, Calculus, Statistics)ပိုင်းအားနဲ့တဲ့သူတွေ နဲ့ AI Engineer Career ခရီးလမ်း စတင်လို့ရမယ့် Crash Course ဖြစ်ပါတယ်။ သင်တန်းအပ်သူေတွတွက် C++ for AI & Robotics Engineers course လက်ဆောင်လေးပေးအပ်သွားပါမယ်ခင်ဗျာ။
 
 ## AI Crash Course (2 Months)
 **Syllabus**
