@@ -1,5 +1,5 @@
-# Linux Course Outline
-*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md), [Data Science](./data_science.md)*
+# Linux System Administration Course Outline
+*[Home](./README.md),  [Training Materials](./trainingmaterials.md),  [Github](https://github.com/ROM-robotics),  [Research](https://www.facebook.com/profile.php?id=100089316612691&mibextid=ZbWKwL)*
 ## Course Overview
 
 ### This course is divided into three main sections:

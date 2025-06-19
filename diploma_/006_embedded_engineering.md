@@ -1,5 +1,5 @@
 # Embedded System Engineering Diploma
-*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md), [Data Science](./data_science.md)*
+*[Home](./README.md),  [Training Materials](./trainingmaterials.md),  [Github](https://github.com/ROM-robotics), 
 
 ## About
 > Embedded Engineering Diploma သည် Electronic, Machtronic, Computer Engineer စတဲ့ကျောင်းသား/သူများနှင့်အဓိက သက်ဆိုင်ပြီး Firmware Engineer, Control Engineer, Robotics Engineer နှင့် Embedded Engineer များအဖြစ် အသက်မွေးဝမ်းကြောင်းပြုနိုင်သော diploma တစ်ခုဖြစ်ပါတယ်။

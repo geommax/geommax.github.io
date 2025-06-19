@@ -1,5 +1,5 @@
 # AI Engineering Diploma
-*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md), [Data Science](./data_science.md)*
+*[Home](./README.md),  [Training Materials](./trainingmaterials.md),  [Github](https://github.com/ROM-robotics), 
 
 ## About
 > AI Engineer တစ်ယောက်အဖြစ်ရပ်တည်နိုင်မယ့် Diploma ဖြစ်ပါတယ်။
@@ -26,7 +26,7 @@
 
 
 
-## AI Engineering Diploma(1 Year)
+## AI Engineering Diploma(6 Months)
 **Syllabus**
 
 - **Warming up Introduction to AI**
@@ -86,7 +86,7 @@ Module 5 - Linear Algebra, Calculus
 
 Module 6 - Higher Dimensions with Linear Regression & Decision Tree
 
-module 7 - Tensor flow and Pytorch Library Introduction
+module 7 - Tensor flow and Pytorch Library 
 ```
 
 ## Learning Style 
@@ -95,9 +95,9 @@ module 7 - Tensor flow and Pytorch Library Introduction
 - **Online Recording (Google Classroom) Class**
 
 ## Class Fees 
-- **In Campus ( 400,000 MMK ) per month**
-- **Online Live Class( 400,000 MMK ) per month**
-- **Online Recording Class ( 300,000 MMK ) per month**
+- **In Campus ( 800,000 MMK ) per month**
+- **Online Live Class( 500,000 MMK ) per month**
+- **Online Recording Class ( 350,000 MMK ) per month**
 
 ### Contact
 - **Phone - 09 2500 7400 8**

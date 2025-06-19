@@ -1,5 +1,5 @@
 # Robotics Engineering Diploma
-*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md), [Data Science](./data_science.md)*
+*[Home](./README.md),  [Training Materials](./trainingmaterials.md),  [Github](https://github.com/ROM-robotics)*
 
 ## About
 > Robotics Engineering Diploma သည် Electronic, Machtronic, Computer Engineer, Computer Science စတဲ့ကျောင်းသား/သူများနှင့်အဓိက သက်ဆိုင်ပြီး Robotics Engineer တစ်ယောက်အဖြစ် အသက်မွေးဝမ်းကျောင်းပြုချင်သူများအတွက် ရည်ရွယ်ပါတယ်။ Diploma Certification သည် ၂ နှစ် ကြာမြင့် မှာဖြစ်ပြီး ပထမ တစ်နှစ်တက်ရုံနဲ့ လုပ်ငန်းခွင်အတွေ့အကြုံများစွာ ရယူနိုင်မှာဖြစ်ပါတယ်။ industrial autonomous mobile robot နှင့် လေ့လာရမှာဖြစ်ပြီး
