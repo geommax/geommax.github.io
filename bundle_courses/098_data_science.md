@@ -1,6 +1,5 @@
 # Statistics Course Modules
-*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md), [Data Science](./data_science.md)*
-
+*[Home](../README.md),  [Training Materials](../trainingmaterials.md),  [Github](https://github.com/ROM-robotics),  [Popular Bundle Courses](../bundle_courses.md)*
 ## About
 > Data Analysis လုပ်ချင်တဲ့သူတွေတွက်ပဲဖြစ်ပါတယ်။
 

@@ -1,6 +1,5 @@
 # AI Engineering Diploma
-*[Home](./README.md),  [Training Materials](./trainingmaterials.md),  [Github](https://github.com/ROM-robotics), 
-
+*[Home](../README.md),  [Training Materials](../trainingmaterials.md),  [Github](https://github.com/ROM-robotics),  [Popular Bundle Courses](../bundle_courses.md)*
 ## About
 > AI Engineer တစ်ယောက်အဖြစ်ရပ်တည်နိုင်မယ့် Diploma ဖြစ်ပါတယ်။
 

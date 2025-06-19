@@ -1,7 +1,6 @@
 ## New AI Field Sub-Divisions
 
-*[Robotics](./robotics_engineering.md),  [Artificial Intelligence](./artificial_intelligence_engineering.md),  [Embedded System](./embedded_engineering.md), [Data Science](./data_science.md)*
-
+*[Home](../README.md),  [Training Materials](../trainingmaterials.md),  [Github](https://github.com/ROM-robotics),  [Popular Bundle Courses](../bundle_courses.md)*
 - **Computer Vision Master Class(3 Months)**
   
   ### ဘယ်သူတွေ join သင့်လဲ ?

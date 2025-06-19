@@ -36,9 +36,7 @@
 
 > Diploma မဟုတ်ပဲ သီးသန့် လေ့လာချင်တဲ့ course များရှိရင် အောက်ပါလင့်ကနေဝင်ရောက်လေ့လာနိုင်ပါတယ်။
 
-*[Bundle Course Fees](./bundle_courses.md)*
-
-*[Bundle Courses Details](./bundle_courses.md)*
+*[Bundle Course Fees and Outline Details](./bundle_courses.md)*
 
 
 ### NOTE: ROM Robotics ရဲ့ Youtube Channel မှာလည်း သင်ခန်းစာတွေကိုလေ့လာနိုင်ပါတယ်။ [ROM-Robotics youtube channel](./trainingmaterials.md).
