@@ -68,7 +68,9 @@
 ## Class Fees 
 - **In Campus ( 800,000 MMK ) per month**
 - **Online Live Class( 500,000 MMK ) per month**
-- **Online Recording Class ( 300,000 MMK ) per month**
+- **Online Recording Class ( 350,000 MMK ) per month**
+
+## Benefit (Included Teacher Guided)
 
 ### Contact
 - **Phone - 09 2500 7400 8**
