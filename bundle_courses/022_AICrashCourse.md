@@ -16,6 +16,7 @@ learning.
 - **Mathematics Foundation (Calculus)**
 - **ML Algorithms (Udacity)**
 - **Artificial Neural Network (ANN)**
+- **Neural Network Model Architecture**
 - **Convolutional Neural Network (CNN)**
 - **Recurrent Neural Network (RNN)**
 - **Reinforcement Learning (RL)**
