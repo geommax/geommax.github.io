@@ -674,6 +674,7 @@ body {
         transition: 0.3s;
         box-shadow: 0 10px 27px rgba(0,0,0,0.05);
         padding: 2rem 0;
+        z-index: 999;
     }
     
     .nav-menu.active {
@@ -696,6 +697,10 @@ body {
         margin: 0.5rem 0;
         border-radius: 4px;
         display: none;
+        min-width: auto;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
     }
     
     .dropdown.active .dropdown-menu {
@@ -709,11 +714,17 @@ body {
     
     .hero-content {
         text-align: center;
-        gap: 2rem;
+        padding: 2rem 1rem;
     }
     
     .hero-content h1 {
         font-size: 2.5rem;
+        line-height: 1.3;
+    }
+    
+    .hero-content p {
+        font-size: 1.1rem;
+        margin-bottom: 2rem;
     }
     
     .contact-content {
@@ -724,10 +735,63 @@ body {
     .hero-buttons {
         flex-direction: column;
         align-items: center;
+        gap: 1rem;
     }
     
     .btn {
         width: 200px;
+        text-align: center;
+    }
+    
+    .container {
+        padding: 0 1rem;
+    }
+    
+    .section-header h2 {
+        font-size: 2rem;
+    }
+    
+    .about-content,
+    .contact-info {
+        text-align: center;
+    }
+    
+    .contact-item {
+        justify-content: center;
+        text-align: center;
+    }
+    
+    /* Enhanced Mobile Navigation */
+    .nav-container {
+        padding: 1rem;
+    }
+    
+    .nav-logo h2 {
+        font-size: 1.5rem;
+    }
+    
+    /* Mobile Form Improvements */
+    .form-group input,
+    .form-group textarea {
+        font-size: 16px; /* Prevents zoom on iOS */
+    }
+    
+    /* Mobile Cards */
+    .product-card,
+    .service-card,
+    .feature {
+        margin-bottom: 1.5rem;
+    }
+    
+    /* Mobile Footer */
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+        text-align: center;
+    }
+    
+    .social-links {
+        justify-content: center;
     }
 }
 
@@ -914,28 +978,57 @@ body {
     font-style: italic;
 }
 
-@media (max_width: 480px) {
+@media (max-width: 480px) {
     .hero-content h1 {
         font-size: 2rem;
+        line-height: 1.2;
+    }
+    
+    .hero-content p {
+        font-size: 1rem;
+        margin-bottom: 1.5rem;
     }
     
     .section-header h2 {
-        font-size: 2rem;
+        font-size: 1.8rem;
+        line-height: 1.3;
     }
     
     .products-grid,
     .services-grid {
         grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .tech-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .features {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
     }
     
     /* Course Page Mobile Styles */
     .course-hero-content h1 {
-        font-size: 2rem;
+        font-size: 1.8rem;
+        line-height: 1.3;
+    }
+    
+    .course-hero-content p {
+        font-size: 1rem;
     }
     
     .course-highlights {
         flex-direction: column;
         align-items: center;
+        gap: 1rem;
+    }
+    
+    .highlight {
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
     }
     
     .details-grid {
@@ -945,6 +1038,114 @@ body {
     
     .course-info-card {
         position: static;
+        margin-top: 2rem;
+    }
+    
+    /* Product Page Mobile Styles */
+    .product-hero-content h1 {
+        font-size: 1.8rem;
+        line-height: 1.3;
+    }
+    
+    .product-highlights {
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+    
+    /* Developer Page Mobile Styles */
+    .developer-hero-content h1 {
+        font-size: 1.8rem;
+        line-height: 1.3;
+    }
+    
+    .developer-highlights {
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+    
+    .resource-cards {
+        grid-template-columns: 1fr;
+    }
+    
+    .community-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .support-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    
+    /* Navigation improvements for small screens */
+    .nav-logo h2 {
+        font-size: 1.3rem;
+    }
+    
+    .logo-img {
+        height: 30px;
+        width: 30px;
+    }
+    
+    /* Form improvements */
+    .form-group {
+        margin-bottom: 1rem;
+    }
+    
+    .contact-form {
+        padding: 1.5rem;
+    }
+    
+    /* Button improvements */
+    .btn {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+    }
+    
+    /* Card spacing */
+    .product-card,
+    .service-card {
+        padding: 1.5rem;
+    }
+    
+    /* Footer adjustments */
+    .footer {
+        padding: 30px 0 15px;
+    }
+    
+    .footer-section {
+        margin-bottom: 1.5rem;
+    }
+    
+    /* Enhanced touch targets */
+    .nav-link,
+    .dropdown-item {
+        padding: 0.75rem 1rem;
+        min-height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    /* Improved text readability */
+    body {
+        font-size: 16px;
+        line-height: 1.6;
+    }
+    
+    /* Better spacing for mobile */
+    .about,
+    .products,
+    .services,
+    .technologies,
+    .contact {
+        padding: 60px 0;
+    }
+    
+    .hero {
+        padding: 100px 0 60px;
+        min-height: 80vh;
     }
 }
 
@@ -2154,33 +2355,130 @@ body {
     font-weight: bold;
 }
 
-/* Mobile responsiveness for embedded systems section */
-@media (max-width: 768px) {
-    .foundation-courses {
-        grid-template-columns: 1fr;
+/* Additional Mobile Optimizations */
+@media (max-width: 1024px) {
+    .hero-content h1 {
+        font-size: 3rem;
     }
     
-    .advanced-options {
-        grid-template-columns: 1fr;
+    .products-grid,
+    .services-grid {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     }
     
-    .pricing-breakdown {
-        grid-template-columns: 1fr;
+    .tech-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+}
+
+/* Tablet Optimizations */
+@media (max-width: 768px) and (min-width: 481px) {
+    .hero-content h1 {
+        font-size: 2.8rem;
     }
     
-    .foundation-price {
-        flex-direction: column;
+    .section-header h2 {
+        font-size: 2.2rem;
+    }
+    
+    .products-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+    }
+    
+    .services-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+}
+
+/* Touch Device Improvements */
+@media (hover: none) and (pointer: coarse) {
+    .product-card:hover,
+    .service-card:hover,
+    .feature:hover {
+        transform: none;
+    }
+    
+    .btn:hover {
+        transform: none;
+    }
+    
+    /* Larger touch targets */
+    .nav-link,
+    .dropdown-item,
+    .btn {
+        min-height: 44px;
+        display: flex;
         align-items: center;
-        gap: 1rem;
+        justify-content: center;
+    }
+}
+
+/* Landscape Mobile Optimizations */
+@media (max-width: 768px) and (orientation: landscape) {
+    .hero {
+        min-height: 100vh;
+        padding: 80px 0 40px;
     }
     
-    .option-header {
-        flex-direction: column;
-        align-items: flex-start;
+    .hero-content h1 {
+        font-size: 2.2rem;
     }
     
-    .price-header {
-        flex-direction: column;
-        align-items: flex-start;
+    .navbar {
+        padding: 0.5rem 0;
+    }
+    
+    .nav-container {
+        padding: 0.5rem 1rem;
+    }
+}
+
+/* Accessibility Improvements */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+    
+    .slide {
+        transition: none;
+    }
+}
+
+/* High DPI Displays */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .logo-img {
+        image-rendering: -webkit-optimize-contrast;
+        image-rendering: crisp-edges;
+    }
+}
+
+/* Print Styles */
+@media print {
+    .navbar,
+    .hero-slider,
+    .slider-controls,
+    .hamburger {
+        display: none;
+    }
+    
+    .hero {
+        background: white;
+        color: black;
+        padding: 20px 0;
+        min-height: auto;
+    }
+    
+    body {
+        font-size: 12pt;
+        line-height: 1.4;
+    }
+    
+    .container {
+        max-width: none;
+        padding: 0;
     }
 }
